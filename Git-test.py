@@ -1,3 +1,6 @@
 print('First test.')
 print('Second test.')
-print('Thrid test.')
+print('Third test.')
+print('Fourth test.')
+print('Fiftieth test.')
+
