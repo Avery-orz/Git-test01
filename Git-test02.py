@@ -1,5 +1,5 @@
 print ('first')
 print ('second')
-print ('thrid')
+print ('third')
 
 
